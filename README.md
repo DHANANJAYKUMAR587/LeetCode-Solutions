@@ -25,9 +25,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2869-minimum-operations-to-collect-elements](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2869-minimum-operations-to-collect-elements) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
