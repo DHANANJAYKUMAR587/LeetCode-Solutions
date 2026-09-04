@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -32,6 +33,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 ## String
 |  |
