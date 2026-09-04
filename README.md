@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## Bit Manipulation
 |  |
@@ -44,4 +46,12 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Sorting
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
