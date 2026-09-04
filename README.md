@@ -9,6 +9,7 @@
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2923-find-champion-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2923-find-champion-i) |
+| [3903-smallest-stable-index-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
@@ -37,4 +38,8 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0344-reverse-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
