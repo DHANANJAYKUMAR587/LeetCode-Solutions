@@ -19,6 +19,7 @@
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2923-find-champion-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2923-find-champion-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
@@ -31,6 +32,7 @@
 | [2848-points-that-intersect-with-cars](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Segment Tree
 |  |
 | ------- |
@@ -95,9 +97,14 @@
 |  |
 | ------- |
 | [2843-count-symmetric-integers](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
