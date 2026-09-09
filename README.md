@@ -61,6 +61,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2810-faulty-keyboard](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Prefix Sum
 |  |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Simulation
+|  |
+| ------- |
+| [2810-faulty-keyboard](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
 <!---LeetCode Topics End-->
