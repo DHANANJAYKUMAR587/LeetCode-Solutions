@@ -10,6 +10,7 @@
 | [0189-rotate-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2815-max-pair-sum-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -28,6 +29,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2815-max-pair-sum-in-an-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -105,6 +107,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Recursion
 |  |
 | ------- |
