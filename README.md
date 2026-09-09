@@ -87,6 +87,7 @@
 | [0189-rotate-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [2485-find-the-pivot-integer](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2843-count-symmetric-integers](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3870-count-commas-in-range](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Greedy
