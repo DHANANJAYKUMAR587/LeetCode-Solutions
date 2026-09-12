@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2815-max-pair-sum-in-an-array) |
@@ -98,6 +99,7 @@
 | [0189-rotate-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [2485-find-the-pivot-integer](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2843-count-symmetric-integers](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3870-count-commas-in-range](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
