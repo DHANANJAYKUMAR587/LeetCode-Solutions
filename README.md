@@ -71,6 +71,7 @@
 | [0187-repeated-dna-sequences](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
