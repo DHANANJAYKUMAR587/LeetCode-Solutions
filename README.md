@@ -75,6 +75,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3498-reverse-degree-of-a-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | ------- |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
+| [3498-reverse-degree-of-a-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Rolling Hash
 |  |
 | ------- |
