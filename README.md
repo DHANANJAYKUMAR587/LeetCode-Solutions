@@ -11,6 +11,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2670-find-the-distinct-difference-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2678-number-of-senior-citizens](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2740-find-the-value-of-the-partition](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [2670-find-the-distinct-difference-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
