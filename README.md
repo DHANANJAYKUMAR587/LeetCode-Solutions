@@ -11,6 +11,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -33,6 +34,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2923-find-champion-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2923-find-champion-i) |
 ## Hash Table
