@@ -11,6 +11,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2644-find-the-maximum-divisibility-score) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -124,6 +126,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2843-count-symmetric-integers](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
