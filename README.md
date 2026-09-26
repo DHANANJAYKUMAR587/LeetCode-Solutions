@@ -11,6 +11,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
@@ -82,6 +83,7 @@
 | [0187-repeated-dna-sequences](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Counting
+|  |
+| ------- |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 <!---LeetCode Topics End-->
