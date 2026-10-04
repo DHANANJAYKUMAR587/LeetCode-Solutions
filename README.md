@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0135-candy](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -134,6 +135,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0135-candy) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2542-maximum-subsequence-score](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
