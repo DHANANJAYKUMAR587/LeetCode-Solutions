@@ -21,6 +21,7 @@
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [2485-find-the-pivot-integer](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [3903-smallest-stable-index-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
