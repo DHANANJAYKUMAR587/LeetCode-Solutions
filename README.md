@@ -12,6 +12,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2506-count-pairs-of-similar-strings](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0015-3sum) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2542-maximum-subsequence-score](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
