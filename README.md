@@ -12,6 +12,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -105,6 +106,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2490-circular-sentence](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2490-circular-sentence) |
