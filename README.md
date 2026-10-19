@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [2405-optimal-partition-of-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2451-odd-string-difference](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
@@ -107,6 +108,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [2405-optimal-partition-of-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2437-number-of-valid-clock-times](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2437-number-of-valid-clock-times) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
@@ -162,6 +164,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0135-candy) |
+| [2405-optimal-partition-of-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2542-maximum-subsequence-score](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
