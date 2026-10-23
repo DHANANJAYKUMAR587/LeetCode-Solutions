@@ -13,6 +13,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2405-optimal-partition-of-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2451-odd-string-difference](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2451-odd-string-difference) |
