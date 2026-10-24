@@ -13,6 +13,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2485-find-the-pivot-integer](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
@@ -142,6 +144,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -149,6 +152,7 @@
 | ------- |
 | [0015-3sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0015-3sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2542-maximum-subsequence-score](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
@@ -169,6 +173,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0135-candy) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2405-optimal-partition-of-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2542-maximum-subsequence-score](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
