@@ -113,6 +113,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2399-check-distances-between-same-letters](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2405-optimal-partition-of-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2437-number-of-valid-clock-times](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2437-number-of-valid-clock-times) |
@@ -193,6 +194,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Recursion
 |  |
