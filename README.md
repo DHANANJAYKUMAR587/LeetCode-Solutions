@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0648-replace-words](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0648-replace-words](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [2367-number-of-arithmetic-triplets](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
@@ -117,6 +119,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0648-replace-words](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2399-check-distances-between-same-letters](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2405-optimal-partition-of-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
@@ -242,4 +245,8 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2542-maximum-subsequence-score](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
