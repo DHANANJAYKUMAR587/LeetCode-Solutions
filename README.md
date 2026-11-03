@@ -50,6 +50,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2923-find-champion-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2923-find-champion-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3903-smallest-stable-index-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
@@ -169,6 +170,7 @@
 | [2729-check-if-the-number-is-fascinating](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2843-count-symmetric-integers](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Greedy
 |  |
