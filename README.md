@@ -13,6 +13,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -97,6 +98,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
@@ -151,6 +153,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -159,6 +162,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0015-3sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
