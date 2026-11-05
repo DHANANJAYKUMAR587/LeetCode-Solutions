@@ -16,6 +16,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2363-merge-similar-items](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
+| [2364-count-number-of-bad-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -69,6 +70,7 @@
 | [0187-repeated-dna-sequences](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0648-replace-words](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [2363-merge-similar-items](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
+| [2364-count-number-of-bad-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [2364-count-number-of-bad-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2485-find-the-pivot-integer](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -244,6 +247,7 @@
 ## Counting
 |  |
 | ------- |
+| [2364-count-number-of-bad-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Heap (Priority Queue)
