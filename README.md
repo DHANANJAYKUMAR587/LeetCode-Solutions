@@ -57,6 +57,7 @@
 | [2923-find-champion-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2923-find-champion-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3903-smallest-stable-index-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Matrix
@@ -180,6 +181,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2740-find-the-value-of-the-partition](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Math
 |  |
 | ------- |
