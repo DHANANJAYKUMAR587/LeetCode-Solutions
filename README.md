@@ -45,6 +45,7 @@
 | [2678-number-of-senior-citizens](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2740-find-the-value-of-the-partition](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2748-number-of-beautiful-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2815-max-pair-sum-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -86,6 +87,7 @@
 | [2670-find-the-distinct-difference-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2748-number-of-beautiful-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2815-max-pair-sum-in-an-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
@@ -190,6 +192,7 @@
 | [2485-find-the-pivot-integer](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2748-number-of-beautiful-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2843-count-symmetric-integers](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -257,6 +260,7 @@
 | [2364-count-number-of-bad-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2748-number-of-beautiful-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -271,4 +275,8 @@
 |  |
 | ------- |
 | [2363-merge-similar-items](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
+## Number Theory
+|  |
+| ------- |
+| [2748-number-of-beautiful-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 <!---LeetCode Topics End-->
