@@ -58,6 +58,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3903-smallest-stable-index-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Matrix
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
