@@ -16,6 +16,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2347-best-poker-hand](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2347-best-poker-hand) |
 | [2363-merge-similar-items](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 | [2364-count-number-of-bad-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0648-replace-words](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0648-replace-words) |
+| [2347-best-poker-hand](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2347-best-poker-hand) |
 | [2363-merge-similar-items](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 | [2364-count-number-of-bad-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -259,6 +261,7 @@
 ## Counting
 |  |
 | ------- |
+| [2347-best-poker-hand](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2347-best-poker-hand) |
 | [2364-count-number-of-bad-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2506-count-pairs-of-similar-strings](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
