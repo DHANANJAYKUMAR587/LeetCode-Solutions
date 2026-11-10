@@ -16,6 +16,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2347-best-poker-hand](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2347-best-poker-hand) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2363-merge-similar-items](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0648-replace-words](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0648-replace-words) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2347-best-poker-hand](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2347-best-poker-hand) |
 | [2363-merge-similar-items](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 | [2364-count-number-of-bad-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
@@ -180,6 +182,7 @@
 | [0015-3sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0015-3sum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2363-merge-similar-items](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -272,6 +275,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2542-maximum-subsequence-score](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
