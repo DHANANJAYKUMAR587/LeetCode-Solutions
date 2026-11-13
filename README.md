@@ -16,6 +16,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2347-best-poker-hand](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2347-best-poker-hand) |
@@ -68,6 +69,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
