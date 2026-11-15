@@ -15,6 +15,7 @@
 | [0648-replace-words](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2485-find-the-pivot-integer](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -202,6 +204,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2485-find-the-pivot-integer](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
@@ -299,4 +302,8 @@
 |  |
 | ------- |
 | [2748-number-of-beautiful-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2748-number-of-beautiful-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
