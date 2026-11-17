@@ -144,6 +144,7 @@
 | [0187-repeated-dna-sequences](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0648-replace-words](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0648-replace-words) |
+| [2315-count-asterisks](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2399-check-distances-between-same-letters](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
