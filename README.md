@@ -17,6 +17,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -252,6 +253,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2562-find-the-array-concatenation-value](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
