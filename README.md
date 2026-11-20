@@ -17,6 +17,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -120,6 +121,7 @@
 | [0189-rotate-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2367-number-of-arithmetic-triplets](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
@@ -183,6 +185,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -192,6 +195,7 @@
 | [0015-3sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0015-3sum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2363-merge-similar-items](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
