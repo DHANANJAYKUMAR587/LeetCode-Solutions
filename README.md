@@ -18,6 +18,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -173,6 +174,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2485-find-the-pivot-integer](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -186,6 +188,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -249,6 +252,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Recursion
