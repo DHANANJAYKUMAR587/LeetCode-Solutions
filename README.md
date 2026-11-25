@@ -17,6 +17,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2293-min-max-game](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2293-min-max-game) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
@@ -263,6 +264,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2293-min-max-game](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2293-min-max-game) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
