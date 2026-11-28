@@ -151,6 +151,7 @@
 | [0344-reverse-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0648-replace-words](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2278-percentage-of-letter-in-string](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2299-strong-password-checker-ii](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/DHANANJAYKUMAR587/LeetCode-Solutions/tree/master/2315-count-asterisks) |
